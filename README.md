@@ -4,7 +4,7 @@ Academy est une start-up de la EdTech qui propose des contenus de formation en l
 Ce projet vise à explorer la possibilité d'étendre l'activité de Academy à l'international. 
 Ma mission consiste à analyser les données sur l'éducation de la Banque mondiale pour identifier les pays avec un fort potentiel de clients.
 
-### Questions explorer :
+### Questions explorées :
 * Quels sont les pays avec un fort potentiel de clients pour les services proposés par Academy ?
 * Pour chacun de ces pays, quelle sera l'évolution de ce potentiel de clients ?
 * Dans quels pays l'entreprise doit-elle opérer en priorité ?
